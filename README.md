@@ -27,7 +27,7 @@
     - `git commit -m 'message'`
     - `git status`
     - `git pull origin main`
-    - `git push origin <branchName>`
+    - `git push origin branchName`
 
 ## Walk-through and links for getting everything set up ##
 - Start by having one person "fork" this repository [Repo to Fork](https://github.com/reanderson89/ABC-scrum-github-activity)
