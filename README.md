@@ -32,7 +32,9 @@
 ## Walk-through and links for getting everything set up ##
 - Start by having one person "fork" this repository [Repo to Fork](https://github.com/reanderson89/ABC-scrum-github-activity) ... It's the repo your currently looking at.
 
-- [Link to scrum walk-through](https://docs.google.com/document/d/1vmgCw0jRXkeVc6nimG8Qp0-GQ_DNu4Huj05krMAiM6c/edit?usp=sharing)
+- <a href="https://docs.google.com/document/d/1vmgCw0jRXkeVc6nimG8Qp0-GQ_DNu4Huj05krMAiM6c/edit?usp=sharing" target="_blank">Link to scrum walk-through</a>
+ 
+- <a href="https://docs.google.com/document/d/1_zaihf2OYYfoiYimgpSnm9jJHyxSzfeO7WYbZVNJe64/edit?usp=sharing" target="_blank">Link to Github walk-through</a>
 
-- [Link to Github walk-through](https://docs.google.com/document/d/1_zaihf2OYYfoiYimgpSnm9jJHyxSzfeO7WYbZVNJe64/edit?usp=sharing) Remember that since you are "forking" this repository you do NOT need to create a new repository. Forking will do that for you, and grab all necessary starter code. Start by cloning the repo to your local machine after forking and adding collaborators. Don't forget to set the security on your main branch though!
+- Remember that since you are "forking" this repository you do NOT need to create a new repository. Forking will do that for you, and grab all necessary starter code. Start by cloning the repo to your local machine after forking and adding collaborators. Don't forget to set the security on your main branch though!
 
