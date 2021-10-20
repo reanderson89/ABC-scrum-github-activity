@@ -30,7 +30,7 @@
     - `git push origin branchName`
 
 ## Walk-through and links for getting everything set up ##
-- Start by having one person "fork" this repository [Repo to Fork](https://github.com/reanderson89/ABC-scrum-github-activity)
+- Start by having one person "fork" this repository [Repo to Fork](https://github.com/reanderson89/ABC-scrum-github-activity) ... It's the repo your currently looking at.
 
 - [Link to scrum walk-through](https://docs.google.com/document/d/1vmgCw0jRXkeVc6nimG8Qp0-GQ_DNu4Huj05krMAiM6c/edit?usp=sharing)
 
