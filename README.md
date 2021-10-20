@@ -1,6 +1,6 @@
 # ABC-scrum-github-activity
 
-- In this activity your group is tasked to create the ABC's by take pictures of various items around you and create a page that will display them all. 
+- In this activity your group is tasked to create the ABC's by taking pictures of various items around you and add them to the index.html file to display them all. 
 
 - These photos should be uploaded to the "photos" folder and then linked using the "src" attribute in the "img" tags in the index.html file. 
 
@@ -13,7 +13,7 @@
 
 - Your team should create a project board and then create an issue for EVERY letter. This is repetitive, and is meant to be used as practice. Start your first sprint by prioritizing the first easy items(letters) people have access to, once everyone is done with their letter, close the issues and then move to the next letters.
 
-- Practice branching in your repository by creating a new branch for every letter that you work on. For example if you personally get tasked with letter C, then create a branch called "letterC". Once you finish that letter and are done with the branch, make sure to create a new branch for your next letter, for example if you are next tasked with letter F your branch would be "letterF".
+- Practice branching in your repository by creating a new branch for every letter that you work on. For example if you personally get tasked with letter C, then create a branch called "letterC". Once you finish that letter and are done with the branch, make sure to create a new branch for your next letter. For example, if you are next tasked with letter F your branch would be "letterF".
 
 ## Useful commands for creating and moving to branches...
     - `git branch` (shows current local branches)
